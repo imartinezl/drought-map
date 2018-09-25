@@ -4,4 +4,9 @@ spei24.nc
 spei48.nc
 spei_Madrid_1.mp4
 spei_1.mp4
-/images/*
+images/*
+packrat/lib*/
+packrat/src/*
+.Rproj.user/
+.Rhistory
+.Rprofile
