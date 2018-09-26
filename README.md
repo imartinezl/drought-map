@@ -33,14 +33,14 @@ The data from the Drought indices dataset for Spain is made available under the 
 What follows is a human-readable summary of the ODbL 1.0 license. Please, read the full ODbL 1.0 license text for the exact terms that apply.
 Users of the dataset are free to:
 
--     **Share**: copy, distribute and use the database, either commercially or non-commercially.
--     **Create**: produce derivative works from the database.
--     **Adapt**: modify, transform and build upon the database.
+- **Share**: copy, distribute and use the database, either commercially or non-commercially.
+- **Create**: produce derivative works from the database.
+- **Adapt**: modify, transform and build upon the database.
 
 Under the following conditions:
 
-1.     **Attribution**: You must attribute any public use of the database, or works produced from the database, by citing the following paper: [Vicente-Serrano SM, Tomás-Burguera M, Beguería S, Reig-Gracia F, Latorre B, Peña-Gallardo M, Luna Y, Morata A, González-Hidalgo JC. A High Resolution Dataset of Drought Indices for Spain. Data, 2 (3): 22 (2017)](http://www.mdpi.com/2306-5729/2/3/22 "Vicente-Serrano SM, Tomás-Burguera M, Beguería S, Reig-Gracia F, Latorre B, Peña-Gallardo M, Luna Y, Morata A, González-Hidalgo JC. A High Resolution Dataset of Drought Indices for Spain. Data, 2 (3): 22 (2017)"). For any use or redistribution of the database, or works produced from it, you must make clear to others the license of the original database.
-2.     **Share-Alike**: If you publicly use any adapted version of this database, or works produced from an adapted database, you must also offer that adapted database under the ODbL.
+1. **Attribution**: You must attribute any public use of the database, or works produced from the database, by citing the following paper: [Vicente-Serrano SM, Tomás-Burguera M, Beguería S, Reig-Gracia F, Latorre B, Peña-Gallardo M, Luna Y, Morata A, González-Hidalgo JC. A High Resolution Dataset of Drought Indices for Spain. Data, 2 (3): 22 (2017)](http://www.mdpi.com/2306-5729/2/3/22 "Vicente-Serrano SM, Tomás-Burguera M, Beguería S, Reig-Gracia F, Latorre B, Peña-Gallardo M, Luna Y, Morata A, González-Hidalgo JC. A High Resolution Dataset of Drought Indices for Spain. Data, 2 (3): 22 (2017)"). For any use or redistribution of the database, or works produced from it, you must make clear to others the license of the original database.
+2. **Share-Alike**: If you publicly use any adapted version of this database, or works produced from an adapted database, you must also offer that adapted database under the ODbL.
 
 
 
