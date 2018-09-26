@@ -4,20 +4,19 @@ This project attempts to find an accesible and friendly way to visualize data of
 
 The purpose of this project is to summarise in a simple way the information of the dataset and hopefully help to identify interesting climate phenomena during the last 50 years in Spain.
 
-The SPEI index can be downloaded at time scales from 1 to 48 months, and it contains data with a spatial resolution of 1.1 km and at four time steps each month (Days 1–8, 9–15, 16–22, and from Day 23 to the end of the month) that covers the Peninsular Spain and the Balearic Islands (PSBI) (35.75N, 10.24W to 43.99N, 4.13E).
-
-Data is projected in the zone 30 North Universal Transversal Mercator coordinate system using the ellipsoid ED50 ([ED50 / UTM zone 30N](http://spatialreference.org/ref/epsg/ed50-utm-zone-30n/ "ED50 / UTM zone 30N")).  The files are available in Network Common Data Form 4 ([NetCDF4](https://www.unidata.ucar.edu/software/netcdf/docs/netcdf_introduction.html "NetCDF4")) format.
-
 The first attempt was to visualize the SPEI index heatmap and the timeline of a given space point. The following example represents the overall situation on November 2017, and the series of values in the city of Madrid.
 
 ![First Attempt](images/spei_Madrid_2732.png) 
 
+## Dataset Desciption
+
+The SPEI index can be downloaded at time scales from 1 to 48 months, and it contains data with a spatial resolution of 1.1 km and at four time steps each month (Days 1–8, 9–15, 16–22, and from Day 23 to the end of the month) that covers the Peninsular Spain and the Balearic Islands (PSBI) (35.75N, 10.24W to 43.99N, 4.13E).
+
+Data is projected in the zone 30 North Universal Transversal Mercator coordinate system using the ellipsoid ED50 ([ED50 / UTM zone 30N](http://spatialreference.org/ref/epsg/ed50-utm-zone-30n/ "ED50 / UTM zone 30N")).  The files are available in Network Common Data Form 4 ([NetCDF4](https://www.unidata.ucar.edu/software/netcdf/docs/netcdf_introduction.html "NetCDF4")) format.
+
 In the case of the heatmap, due to the high amount of points to be drawn and rendered, the map was reduced to a 500x500 grid, with the mean value of the SPEI in each square.
 
 Optionally, a coast map of Spain can be overlaid to get a better localization of each square.
-
-##  Dataset
-The drought indices dataset for Spain offers historical information about drought conditions, according to different drought indices, with a 1.1 km spatial resolution and a weekly time resolution (4 time-steps per month). The calibration period for the indices is 1961-2014. Additional technical information on the dataset can be found at: [Vicente-Serrano SM, Tomás-Burguera M, Beguería S, Reig-Gracia F, Latorre B, Peña-Gallardo M, Luna Y, Morata A, González-Hidalgo JC. A High Resolution Dataset of Drought Indices for Spain. Data, 2 (3): 22 (2017)](http://www.mdpi.com/2306-5729/2/3/22 "Vicente-Serrano SM, Tomás-Burguera M, Beguería S, Reig-Gracia F, Latorre B, Peña-Gallardo M, Luna Y, Morata A, González-Hidalgo JC. A High Resolution Dataset of Drought Indices for Spain. Data, 2 (3): 22 (2017)")
 
 ## SPEI Drought Indicator
 
