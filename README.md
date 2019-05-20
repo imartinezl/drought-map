@@ -6,9 +6,10 @@ The purpose of this project is to summarise in a simple way the information of t
 
 The first attempt was to visualize the SPEI index heatmap and the timeline of a given space point. The following example represents the overall situation on November 2017, and the series of values in the city of Madrid.
 
-![First Attempt](images/spei_Madrid_2732.png)
 
 ![Animation](videos/spei_Madrid_1.gif)
+
+![First Attempt](images/spei_Madrid_2732.png)
 
 ## Dataset Desciption
 
